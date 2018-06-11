@@ -1,0 +1,17 @@
+{
+	"Categories": [
+		["Turkey", "turkey"],
+	],
+	"Templates": {
+		"orta_bayrak": {
+			"name": "orta_bayrak.png",
+			"x": 862,
+			"y": -505,
+			"width": 327,
+			"height": 217,
+			"categories": ["turkey"],
+			"aliases": ["Memorial Art", "Cell", "Lost", "Lost in the Abyss"]
+		},
+		}
+	}
+}
