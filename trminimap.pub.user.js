@@ -4,8 +4,8 @@
 // @version      0.13
 // @description  Minimap for PixelZone
 // @author       2018 © Emir Kaya#9899
-// @match        http://pixelzone.io/?
-// @match        https://pixelzone.io/?
+// @match        http://pixelzone.io/
+// @match        https://pixelzone.io/
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 // @require      https://use.fontawesome.com/releases/v5.0.10/js/all.js
